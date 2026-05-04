@@ -4,7 +4,7 @@
 
     <test name="Booking Tests">
         <classes>
-            <class name="runners.TestRunner"/>
+            <class name="testRunner.TestRunner"/>
         </classes>
     </test>
 
